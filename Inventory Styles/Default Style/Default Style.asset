@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea95a94beb15428eb4c3b274f9041cd3, type: 3}
+  m_Name: Default Style
+  m_EditorClassIdentifier: 
+  slotObj: {fileID: 4433484939315479832, guid: c300fbd31a447cf41b18ab4a7b393559, type: 3}
+  itemObj: {fileID: 6990323561626996991, guid: 0f0c1b2110b762a459f4712b5acfa772, type: 3}
+  ctxMenuObj: {fileID: 503545928657530507, guid: 0036ff5a6ef466f4187f9ebbd88193e7, type: 3}
+  ctxBtnObj: {fileID: 3181236514762777481, guid: 2dd4f9a221630604e8e1062e6e14001a, type: 3}
